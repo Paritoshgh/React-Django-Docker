@@ -141,3 +141,4 @@ CORS_ORIGIN_WHITELIST = [
 
 ]
 
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
